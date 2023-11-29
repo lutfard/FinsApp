@@ -1,0 +1,8 @@
+
+#box   {
+    margin: 150px auto;
+    width: 400px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    background-color: rgb(232, 232, 232);
+}
